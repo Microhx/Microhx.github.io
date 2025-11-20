@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(git init)",
-      "Bash(git add .)"
+      "Bash(git add .)",
+      "Bash(git commit -m \"Initial commit: Add portfolio website with project showcase\")",
+      "Bash(git remote set-url origin https://github.com/MicroHx/MicroHx.github.io.git)"
     ],
     "deny": [],
     "ask": []
